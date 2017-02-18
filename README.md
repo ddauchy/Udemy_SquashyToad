@@ -16,4 +16,4 @@ In linux you get the following error all the time:
   * ####Workaround: 
     1. As normal, you attach the GVRAudioListener script to your camera
     2. and Use the GvrAudioSource prefab for all of your audio
-    3. Build to your android device and when you play through the game you'll hear the spatial audio effects.sdfdsfsdfdsf
+    3. Build to your android device and when you play through the game you'll hear the spatial audio effects.
